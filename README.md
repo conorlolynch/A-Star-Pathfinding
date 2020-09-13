@@ -16,11 +16,11 @@ numpy==1.18.4
 
 ## Keybinds
 
-S - Enables the start point to be placed with left click
-E - Enables the end point to be placed with left click
-W - Enables walls to be placed with left click (hold to drag wall over distance)
-C - Clear screen
-F - Run A* Algorithm and visualize progress
+- S - Enables the start point to be placed with left click
+- E - Enables the end point to be placed with left click
+- W - Enables walls to be placed with left click (hold to drag wall over distance)
+- C - Clear screen
+- F - Run A* Algorithm and visualize progress
 
 Left Click - Place wall/node at mouse location
 Right Click - Remove wall/node at mouse location
