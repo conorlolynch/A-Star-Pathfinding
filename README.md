@@ -35,7 +35,7 @@ The algorithm knows the locations of both the start and end point on the grid. I
 
 ### Demonstration
 
-TO BE ADDED
+![alt text](img/2020-09-13-21-09-24.gif)
 
 ### Additional Information
 
@@ -43,3 +43,4 @@ TO BE ADDED
 
 ### Desired Features
 - Make GUI prettier.
+- Add ability to generate random maze or terrain for algorithm to solve.
