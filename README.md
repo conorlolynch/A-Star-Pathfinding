@@ -35,7 +35,7 @@ The algorithm knows the locations of both the start and end point on the grid. I
 
 ### Demonstration
 
-![alt text](img/2020-09-13-21-09-24.gif)
+![alt text](Images/2020-09-13-21-09-24.gif)
 
 ### Additional Information
 
