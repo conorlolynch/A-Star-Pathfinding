@@ -22,8 +22,8 @@ numpy==1.18.4
 - C - Clear screen
 - F - Run A* Algorithm and visualize progress
 
-Left Click - Place wall/node at mouse location
-Right Click - Remove wall/node at mouse location
+- Left Click - Place wall/node at mouse location
+- Right Click - Remove wall/node at mouse location
 
 ## Usage and Explanation
 
